@@ -1,0 +1,29 @@
+--- TO DO LIST ---
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Delete Task
+5. Exit
+
+Enter your choice: 1
+Enter task: Learn Python
+Task added successfully
+
+Enter your choice: 1
+Enter task: Practice DSA
+Task added successfully
+
+Enter your choice: 2
+1. Learn Python - Pending
+2. Practice DSA - Pending
+
+Enter your choice: 3
+Enter task number to mark as done: 1
+Task marked as done
+
+Enter your choice: 2
+1. Learn Python - Done
+2. Practice DSA - Pending
+
+Enter your choice: 5
+Thank you
